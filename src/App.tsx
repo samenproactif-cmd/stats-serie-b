@@ -264,7 +264,7 @@ const ScanProject = () => {
         </p>
 
         <div className="flex flex-col items-center border-t border-slate-100 pt-6 w-32">
-          <p className="text-[10px] font-black text-slate-300 uppercase tracking-[0.3em]">SAMEN</p>
+          <p className="text-[10px] font-black text-slate-300 uppercase tracking-[0.3em]">proACTif</p>
           <p className="text-[9px] font-bold text-slate-300 mt-1 uppercase">Version 1.0.2</p>
         </div>
       </footer>
